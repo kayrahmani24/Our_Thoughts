@@ -1,0 +1,24 @@
+{
+  "name": "our_thoughts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayrahmani24/Our_Thoughts.git"
+  },
+  "author": "Kayvan Rahmani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kayrahmani24/Our_Thoughts/issues"
+  },
+  "homepage": "https://github.com/kayrahmani24/Our_Thoughts#readme",
+  "dependencies": {
+    "mysql2": "^1.5.1",
+    "sequelize": "^4.28.6"
+  }
+}
